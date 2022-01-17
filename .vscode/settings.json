@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/schapman/workspace/bsci",
+        "./deps/dep_1",
+        "./deps/dep_2"
+    ]
+}

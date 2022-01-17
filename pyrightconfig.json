@@ -1,0 +1,4 @@
+{
+  "extraPaths": ["deps/dep_1", "deps/dep_2"],
+  "typeCheckingMode": "basic"
+}
